@@ -1,0 +1,42 @@
+.sidebar{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 75px;
+  background-color: white;
+  width: 75px;
+}
+
+.sidebar-link{
+  height: 80px;
+  margin-bottom: 1px;
+  margin-left: 3px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.sidebar-link:hover{
+  background-color: rgb(235, 235, 235);
+  height: 80px;
+  margin-bottom: 1px;
+}
+
+.home-icon,
+.shorts-icon,
+.subs-icon,
+.you-icon{
+  height: 24px;
+}
+
+.sidebar-link div{
+  font-family: Roboto, Arial;
+  font-weight: 400;
+  font-size: 10px;
+  color: black;
+  padding-top: 8px;
+}
