@@ -1,6 +1,7 @@
 # YouTube Clone
 
-Welcome to my YouTube clone project! This project is a simple reproduction of the YouTube user interface using only HTML and CSS. It has been hosted and deployed using GitHub Pages for easy access.
+Welcome to my YouTube clone project! This project is a reproduction of the YouTube UI using purely HTML and CSS. 
+It has been hosted and deployed using GitHub Pages for easy access.
 
 ## Features
 
