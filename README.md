@@ -22,6 +22,7 @@ It has been hosted and deployed using GitHub Pages for easy access.
 ## Demo
 
 You can experience this YouTube clone for yourself by clicking [this link](https://shaf-m.github.io/YouTubeClone/).
+
 **Designed for desktop viewing** 
 
 Thanks for checking it out!
